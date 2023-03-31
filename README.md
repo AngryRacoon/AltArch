@@ -5,8 +5,8 @@ ALAR Archiver is a simple file archiving utility written in C. It allows you to 
 + Create ALAR archive from a given directory.
 + Extract files from an existing ALAR archive.
 ## Usage
-Compilation
-### To compile the ALAR Archiver, run the following command:
+### Compilation
+To compile the ALAR Archiver, run the following command:
 `gcc -o alar_archiver main.c -Wall`
 
 This command will create an executable named alar_archiver.
