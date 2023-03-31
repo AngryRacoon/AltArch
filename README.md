@@ -8,7 +8,7 @@ ALAR Archiver is a simple file archiving utility written in C. It allows you to 
 ### Compilation
 To compile the ALAR Archiver, run the following command:
 
-`gcc -o alar_archiver main.c -Wall`
+`g++ -o alar_archiver main.cpp -Wall`
 
 This command will create an executable named alar_archiver.
 
