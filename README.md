@@ -22,7 +22,9 @@ This command will create an archive named archive.alar in the current directory,
 
 ### Extract an ALAR archive
 To extract files from an existing ALAR archive, run the following command:
-./alar_archiver /path/to/archive.alar
+
+`./alar_archiver /path/to/archive.alar`
+
 This command will extract the contents of the specified ALAR archive into the current directory.
 
 ## Note
